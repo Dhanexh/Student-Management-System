@@ -1,6 +1,6 @@
-# Student Portal
+# Student Management System
 
-This is a Springboot Project for Restaurant Model Management where we create backend application for an organisation
+This is a Springboot Project for Student Management System where we create backend application for an organisation
 
 
 ## Roadmap
